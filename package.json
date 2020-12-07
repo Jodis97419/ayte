@@ -1,0 +1,25 @@
+{
+  "name": "discord-customstatus",
+  "version": "1.0.0",
+  "description": "Animate your custom status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BeepFelix",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeepFelix/discord-customstatus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BeepFelix/discord-customstatus/issues"
+  },
+  "homepage": "https://github.com/BeepFelix/discord-customstatus#readme"
+}

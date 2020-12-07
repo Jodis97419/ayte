@@ -1,0 +1,113 @@
+{
+	"token": "Njg4NjIwMDU0ODk1NjU2OTc5.X7aNBg.VyWB95UstrlNXXcpSMw4FBUSVKo",
+	"animation": [
+		{
+			"text": "h",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "ht",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "htt",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "http",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "https",
+			"emojiID": "581956534544629760",
+			"emojiName": "epingle",
+			"timeout": 50
+		},
+		{
+			"text": "https:",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "https:/",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "https://",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "https://t",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "https://t.",
+			"emojiID": "581956534544629760",
+			"emojiName": "epingle",
+			"timeout": 50
+		},
+		{
+			"text": "https://t.m",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "https://t.me",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "https://t.me/",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "https://t.me/J",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 50
+		},
+		{
+			"text": "https://t.me/J0",
+			"emojiID": "581956534544629760",
+			"emojiName": "epingle",
+			"timeout": 50
+		},
+		{
+			"text": "https://t.me/J0d",
+			"emojiID": "581956534544629760",
+			"emojiName": "epingle",
+			"timeout": 50
+		},
+		{
+			"text": "https://t.me/J0d7",
+			"emojiID": "581956534544629760",
+			"emojiName": "epingle",
+			"timeout": 50
+		},
+		{
+			"text": "https://t.me/J0d7s",
+			"emojiID": "732347596370083840",
+			"emojiName": "epingle",
+			"timeout": 50
+		}
+	]
+}
